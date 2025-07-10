@@ -196,12 +196,6 @@ cd frontend
 npm test
 ```
 
-## 🙏 Acknowledgments
-
-- Connect Four game logic inspired by the classic board game
-- Built with modern web development best practices
-- Responsive design principles for optimal user experience
-
 ---
 
 *Developed as part of a full-stack development portfolio project (October 2024 - December 2024)*
